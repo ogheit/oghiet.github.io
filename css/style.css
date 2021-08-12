@@ -479,7 +479,7 @@ form .button a:hover {
   border: 1px solid var(--white-alpha-40);
   backdrop-filter: var(--backdrop-filter-blur);
   padding-top: 70px;
-  height: 700px;
+  height: 800px;
 }
 
 #team .title-box::after {

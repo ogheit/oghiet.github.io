@@ -816,3 +816,23 @@ form .button a:hover {
     margin-top: 550px;
   }
 }
+
+@media (max-width: 480px) {
+  #team {
+    position: relative;
+    height: 1900px;
+  }
+
+  .weekend-team {
+    display: flex;
+    flex-direction: column;
+    margin-top: 1100px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .team-names {
+    width: 100%;
+  }
+}
+
